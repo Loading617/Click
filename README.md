@@ -1,2 +1,2 @@
 # Click
-Mouse Manage for Android
+Android Mouse Manager
